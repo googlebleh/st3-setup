@@ -22,5 +22,7 @@
 	"show_tab_close_buttons": false,
 	"spell_check": true,
 	"trim_automatic_white_space": false,
-	"trim_trailing_white_space_on_save": true
+    "scroll_past_end": false,
+	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true
 }
