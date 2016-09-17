@@ -52,7 +52,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00FF00</string>
+				<string>#55FF55</string>
+				<!-- <string>#75715E</string> -->
 			</dict>
 		</dict>
 		<dict>
