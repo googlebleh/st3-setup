@@ -120,7 +120,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FFAA55</string>
+				<!-- <string>#FF69B4</string> -->
+				<!-- <string>#F92672</string> -->
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +135,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FF69B4</string>
+				<!-- <string>#F92672</string> -->
 			</dict>
 		</dict>
 		<dict>
